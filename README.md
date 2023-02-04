@@ -1,2 +1,2 @@
 # iTerm2_Profile
-My iTerm2 Profile
+Change the value of "Working Directory"
